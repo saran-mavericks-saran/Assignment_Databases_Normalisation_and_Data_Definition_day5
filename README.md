@@ -1,0 +1,1 @@
+This repository contains the completed solutions for the **Day 5 Database Training Assignment**, covering relational database normalization (up to 3NF/BCNF), data integrity enforcement in **Microsoft SQL Server (T-SQL)**, and schema-flexible document modeling in **MongoDB**.
